@@ -29,4 +29,4 @@ function quantumBogosort(arr) {
 const unsortedArray = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5];
 const result = quantumBogosort(unsortedArray);
 console.log('Sorted Array:', result.sortedArray);
-console.log('termination:', result.termination);
+console.log('termination:', result.termination); 
